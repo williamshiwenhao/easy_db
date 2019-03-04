@@ -1,3 +1,5 @@
 # easy_db
-# In develope
-# Just for C++ pratice
+
+ In development
+
+ Just for C++ pratice
